@@ -5,4 +5,5 @@ Navigation systems can help in allocating public charging stations to electric v
 
 
 Sample Input and Output
+
 ![Screenshot 2021-06-02 at 5 51 25 PM](https://user-images.githubusercontent.com/83510279/120629569-9553f780-c483-11eb-9218-709ff20abb73.png)
